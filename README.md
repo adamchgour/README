@@ -5,7 +5,7 @@
 # 💻 Tech:
 <p align="center">
 	<a href="">
-		<img src="https://skillicons.dev/icons?i=c++,python,pytorch,tensorflow,javascript,typescript,html,css">
+		<img src="https://skillicons.dev/icons?i=cpp,python,pytorch,tensorflow,javascript,typescript,html,css">
 	</a>
 </p>
 
